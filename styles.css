@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+*{
+	background-color: aqua
+}
+
+img{
+	width:450px;
+	
+}
